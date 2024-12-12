@@ -35,3 +35,8 @@ Technologies Used
 - **System Monitoring**: Admin can track system usage and monitor performance metrics.
 ---
 
+![image](https://github.com/user-attachments/assets/235a7861-1990-4de4-b49b-21e798ba4ef7)
+
+![image](https://github.com/user-attachments/assets/36fee538-9cc6-40e8-9211-042e6cd6274c)
+
+
