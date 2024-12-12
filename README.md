@@ -10,24 +10,24 @@ Technologies Used
 - JavaScript 
 - CSS & Bootstrap
 - HTML
+
 ---
 ## Usage
 
 ### For Passengers:
-- **Register and Login**: Register on the `Passregister.php` page and log in via `login.php`.
-- **Book a Taxi**: Use the `p_booking.php` page to book a ride by entering pickup and destination details.
-- **View Booking History**: Check past rides on `p_bookingHistory.php`.
-- **Track Ongoing Ride**: Monitor live ride status on `p_bookingongoing.php`.
-- **Leave Feedback**: Rate the ride and provide feedback on `p_feedback.php`.
-- **Make Payment**: Complete payments through the `p_payment.php` page.
+- **Register and Login**: Sign up and log in to the system to start using the service.
+- **Book a Taxi**: Enter pickup and destination details to request a ride.
+- **View Booking History**: Check your past ride details and booking history.
+- **Track Ongoing Ride**: Monitor the real-time status of your current ride.
+- **Leave Feedback**: Rate the ride and provide feedback for the driver.
+- **Make Payment**: Complete payment for the ride once it's finished.
 
 ### For Drivers:
-- **Register and Login**: Drivers register via `Driverregister.php` and log in.
-- **Manage Vehicle Availability**: Set availability on `d_vehicleAvailability.php`.
-- **View Booking History**: Track completed rides on `d_bookingHistory.php`.
-- **Accept Ride Requests**: Respond to incoming booking requests on `d_Driverrequest.php`.
-- **Track Ongoing Rides**: Monitor current bookings on `d_bookingongoing.php`.
-
+- **Register and Login**: Sign up and log in to manage your profile and availability.
+- **Manage Vehicle Availability**: Update whether your vehicle is available or not.
+- **View Booking History**: Track your completed bookings and ride history.
+- **Accept Ride Requests**: View and accept new ride requests from passengers.
+- **Track Ongoing Rides**: Monitor and manage active rides and their status.
 
 ### For Admin:
 - **Manage Users**: Admin can view, edit, or delete passenger and driver accounts.
