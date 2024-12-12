@@ -34,6 +34,9 @@ Technologies Used
 - **Manage Bookings**: Admin has the ability to oversee and modify ride bookings.
 - **System Monitoring**: Admin can track system usage and monitor performance metrics.
 ---
+![image](https://github.com/user-attachments/assets/c727bae1-d850-4d6d-8555-9a2c418b8a01)
+
+![image](https://github.com/user-attachments/assets/134e70b1-4785-4ff9-9f12-085e94a16f29)
 
 ![image](https://github.com/user-attachments/assets/235a7861-1990-4de4-b49b-21e798ba4ef7)
 
