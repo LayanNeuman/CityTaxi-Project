@@ -10,7 +10,7 @@ Technologies Used
 - JavaScript 
 - CSS & Bootstrap
 - HTML
-
+---
 ## Usage
 
 ### For Passengers:
@@ -28,14 +28,10 @@ Technologies Used
 - **Accept Ride Requests**: Respond to incoming booking requests on `d_Driverrequest.php`.
 - **Track Ongoing Rides**: Monitor current bookings on `d_bookingongoing.php`.
 
-Here's a concise **Admin** usage summary:
-
----
 
 ### For Admin:
 - **Manage Users**: Admin can view, edit, or delete passenger and driver accounts.
 - **Manage Bookings**: Admin has the ability to oversee and modify ride bookings.
 - **System Monitoring**: Admin can track system usage and monitor performance metrics.
-
 ---
 
